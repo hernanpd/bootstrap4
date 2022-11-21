@@ -131,8 +131,9 @@ body{
 /*jumbotron*/
 .jumbotron {
     background-color: transparent;
-    .jumbotron-header {
 }
+
+.jumbotron-header {
     color: white;
     font-weight: bold;
     margin-bottom: 30px;
